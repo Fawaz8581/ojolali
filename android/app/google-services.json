@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1080029979062",
+    "project_id": "test-35204",
+    "storage_bucket": "test-35204.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080029979062:android:11cf26192628ebc7b92117",
+        "android_client_info": {
+          "package_name": "com.example.ojolali"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB15Mp32Suh0xr9rsfkg-iyxc7Gvrjdac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
